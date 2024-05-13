@@ -1,5 +1,3 @@
-import React from 'react'
-
 const useNode = () => {
   const insertNode = function (tree, commentId, item) {
     if (tree.id === commentId) {
